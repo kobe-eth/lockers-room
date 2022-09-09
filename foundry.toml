@@ -1,0 +1,7 @@
+[profile.default]
+verbosity = 3
+fuzz-runs = 10_000
+optimizers_runs = 24_000
+
+[rpc_endpoints]
+rpc_url = "https://eth.public-rpc.com"

@@ -1,0 +1,3 @@
+SwapRouterTest:testMulticallCurve() (gas: 939626)
+SwapRouterTest:testMulticallExchangeUnderlying() (gas: 934493)
+SwapRouterTest:testMulticallJarvis() (gas: 898803)
