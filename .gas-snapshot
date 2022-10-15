@@ -1,3 +1,5 @@
-SwapRouterTest:testMulticallCurve() (gas: 939626)
-SwapRouterTest:testMulticallExchangeUnderlying() (gas: 934493)
-SwapRouterTest:testMulticallJarvis() (gas: 898803)
+ZapTest:testDepositToLocker() (gas: 273221)
+ZapTest:testGetQuoteHelper() (gas: 19660)
+ZapTest:testSwapAndDepositIntoLocker() (gas: 235525)
+ZapTest:testSwapETHWithParaswap() (gas: 163441)
+ZapTest:testSwapToETHWithParaswap() (gas: 338069)
